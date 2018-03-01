@@ -1,0 +1,3 @@
+[submodule "khash"]
+	path = khash
+	url = https://github.com/thulsadum/khash
